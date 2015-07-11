@@ -16,6 +16,7 @@ function login($user,$pass)
         return false;
     }
 }
+//to get allthe degrees
 function getAlldegree() {
 	$res = mysql_query ( "select distinct(degree) from student order by degree" );
 	$result = array ();
