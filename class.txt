@@ -1,0 +1,8 @@
+modal dialog
+
+<div id=""  class=""
+
+
+otable.row('id').remove.draw(false)
+otable.row('id').remove
+otable.row('id').data(result).draw();
